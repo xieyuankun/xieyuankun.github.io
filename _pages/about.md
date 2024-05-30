@@ -17,27 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Yuankun Xie. Currently, a second-year PhD student at the Communication University of China and conducting joint Ph.D training at the Institute of Automation, Chinese Academy of Sciences. 
-My research interest includes audio deepfake detection, speech synthesis and voice conversion. I have published more than 10 papers at the top international audio conferences or journal.
+Hi there, I am Yuankun Xie, currently a second-year Ph.D. student at the Communication University of China and engaged in joint Ph.D. training at the Institute of Automation, Chinese Academy of Sciences.
+
+My research interests include audio deepfake detection, speech synthesis, and voice conversion. I have published over 10 papers in top international audio conferences and journals.
 
 
-# 🔥 News
-- *2024.05*: &nbsp; One paper submitted to <font face="Candara" color=Crimson size=6>TASLP</font>
-- *2024.04*: &nbsp; Participate in ICASSP2024 in Korea and present one posters and one orals
-- *2024.03*: &nbsp; Four paper submitted to INTERSPEECH 2024
-- *2024.01*: &nbsp; Two paper accepted by ICASSP 2024.
-- *2023.11*: &nbsp; Joined Pro. Jianhua Tao's group at the Institute of Automation for my Ph.D. joint training, with specific guidance from Dr. Ruibo Fu.
-- *2023.10*: &nbsp; One journal paper accepted by TIFS
+## 🔥 Milestones During Ph.D. Period
+- *2024.05*: &nbsp; 📣 Submitted 1 journal paper to <span style="color: red;">TASLP</span>.
+- *2024.04*: &nbsp; ✈️ Participated in ICASSP 2024 in Korea, presenting one poster and one oral presentation.
+- *2024.03*: &nbsp; 📣 Submitted 4 papers to <span style="color: red;">INTERSPEECH 2024</span>.
+- *2024.01*: &nbsp; 🎉 2 paper accepted by <span style="color: red;">ICASSP 2024</span>.
+- *2023.11*: &nbsp; 👓 Joined Professor Jianhua Tao's group at the Institute of Automation for my Ph.D. joint training, under the specific guidance of Dr. Ruibo Fu.
+- *2023.10*: &nbsp; 🎉 1 journal paper accepted by <span style="color: red;">TIFS</span>.
+- *2023.08*: &nbsp; ✈️ Participated in IJCAI 2023 DADA workshop (ADD2023) in Macao, delivering one presentation.
+- *2023.06*: &nbsp; 🎉 2 paper accepted by <span style="color: red;">INTERSPEECH 2023</span> and <span style="color: red;">IJCAI 2023 DADA workshop</span>.
+- *2023.05*: &nbsp; 💻 Participated in the ADD2023 Competition, achieving rankings of 6/14 in Track 1.1, 5/52 in Track 1.2, and 6/17 in Track 2.
+- *2022.09*: &nbsp; 👓 Joined Professor Long Ye's group at the Communication University of China, under the specific guidance of Dr. Haonan Cheng.
 
+## 📝 Publications 
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Learning A Self-Supervised Domain-Invariant Feature Representation for Generalized Audio Deepfake Detection](https://www.isca-archive.org/interspeech_2023/xie23c_interspeech.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -46,11 +50,11 @@ My research interest includes audio deepfake detection, speech synthesis and voi
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+## 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+## 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
