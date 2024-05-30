@@ -36,19 +36,42 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 
 ## 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='images/interspeech2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning A Self-Supervised Domain-Invariant Feature Representation for Generalized Audio Deepfake Detection](https://www.isca-archive.org/interspeech_2023/xie23c_interspeech.pdf)
 
 **Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+
+
+- **C5: ICASSP 2024:** An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection
+  
+  **Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
+
+
+- **C4-ICASSP 2024:** FSD: An initial chinese dataset for fake song detection
+  
+  **Yuankun Xie**, Jingjing Zhou, Xiaolin Lu, Zhenghao Jiang, Yuxin Yang, Haonan Cheng, Long Ye
+
+
+- **C3-IJCAI 2023:** Single domain generalization for audio deepfake detection
+  
+  **Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
+
+
+- **C2-INTERSPEECH 2023:** Learning A Self-Supervised Domain-Invariant Feature Representation for Generalized Audio Deepfake Detection
+  
+  **Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
+
+- **C1-ICME 2023:** Unsupervised quantized prosody representation for controllable speech synthesis
+  
+  Yutian Wang, **Yuankun Xie**, Kun Zhao, Hui Wang, Qin Zhang
 
 ## 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
