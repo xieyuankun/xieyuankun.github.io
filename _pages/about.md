@@ -22,7 +22,7 @@ Hi there, I am Yuankun Xie, currently a second-year Ph.D. student at the Communi
 My research interests include audio deepfake detection, speech synthesis, and voice conversion. I have published over 10 papers in top international audio conferences and journals.
 
 
-## 🔥 Milestones During Ph.D. Period
+# 🔥 Milestones During Ph.D. Period
 - *2024.05*: &nbsp; 📣 Submitted 1 journal paper to <span style="color: red;">TASLP</span>.
 - *2024.04*: &nbsp; ✈️ Participated in ICASSP 2024 in Korea, presenting one poster and one oral presentation.
 - *2024.03*: &nbsp; 📣 Submitted 4 papers to <span style="color: red;">INTERSPEECH 2024</span>.
@@ -34,24 +34,27 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 - *2023.05*: &nbsp; 💻 Participated in the ADD2023 Competition, achieving rankings of 6/14 in Track 1.1, 5/52 in Track 1.2, and 6/17 in Track 2.
 - *2022.09*: &nbsp; 👓 Joined Professor Long Ye's group at the Communication University of China, under the specific guidance of Dr. Haonan Cheng.
 
-## 📝 Publications 
+# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2023</div><img src='images/interspeech2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### Preprint
+- The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio
 
-[Learning A Self-Supervised Domain-Invariant Feature Representation for Generalized Audio Deepfake Detection](https://www.isca-archive.org/interspeech_2023/xie23c_interspeech.pdf)
-
-**Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
-
-
-</div>
-</div>
+  **Yuankun Xie**, Yi Lu, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Jianhua Tao, Xin Qi, Xiaopeng Wang, Yukun Liu, Haonan Cheng, Long Ye, Yi Sun
 
 
 
 
 
-- **C5: ICASSP 2024:** An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection
+### Journal
+
+- **J1-TIFS 2024:** Domain Generalization Via Aggregation and Separation for Audio Deepfake Detection
+
+  **Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
+
+### Conference
+
+
+- **C5-ICASSP 2024:** An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection
   
   **Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
 
@@ -74,11 +77,14 @@ My research interests include audio deepfake detection, speech synthesis, and vo
   
   Yutian Wang, **Yuankun Xie**, Kun Zhao, Hui Wang, Qin Zhang
 
-## 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-## 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+# 🎖 Competition
+- *2023.5* IJCAI 2023 DADA workshop Track 1.1, 6/14 
+- *2023.5* IJCAI 2023 DADA workshop Track 1.2, 5/52
+- *2023.5* IJCAI 2023 DADA workshop Track 2, 6/17 
+
+
+
 
