@@ -22,7 +22,7 @@ Hi there, I am Yuankun Xie, currently a second-year Ph.D. student at the Communi
 My research interests include audio deepfake detection, speech synthesis, and voice conversion. I have published over 10 papers in top international audio conferences and journals.
 
 
-# 🔥 Milestones During Ph.D. Period
+# 🔥 Milestones
 - *2024.05*: &nbsp; 📣 Submitted 1 journal paper to <span style="color: red;">TASLP</span>.
 - *2024.04*: &nbsp; ✈️ Participated in ICASSP 2024 in Korea, presenting one poster and one oral presentation.
 - *2024.03*: &nbsp; 📣 Submitted 4 papers to <span style="color: red;">INTERSPEECH 2024</span>.

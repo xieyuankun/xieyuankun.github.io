@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Milestones During Ph.D. Period"
-    url: "/#-milestones During Ph.D. Period"
+  - title: "Milestones"
+    url: "/#-milestones"
 
   - title: "Publications"
     url: "/#-publications"
