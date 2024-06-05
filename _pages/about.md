@@ -19,18 +19,19 @@ redirect_from:
 
 Hi there, I am Yuankun Xie, currently a second-year Ph.D. student at the Communication University of China and engaged in joint Ph.D. training at the Institute of Automation, Chinese Academy of Sciences.
 
-My research interests include audio deepfake detection, speech synthesis, and voice conversion. I have published over 10 papers in top international audio conferences and journals.
+My research interests include audio deepfake detection, speech synthesis, and voice conversion. I have published <span style="color: red;">10+</span> papers in top international audio conferences and journals.
 
 
 # 🔥 Milestones
+- *2024.06*: &nbsp; 📣 4 papers accepted by <span style="color: red;">INTERSPEECH 2024</span>.
 - *2024.05*: &nbsp; 📣 Submitted 1 journal paper to <span style="color: red;">TASLP</span>.
 - *2024.04*: &nbsp; ✈️ Participated in ICASSP 2024 in Korea, presenting one poster and one oral presentation.
 - *2024.03*: &nbsp; 📣 Submitted 4 papers to <span style="color: red;">INTERSPEECH 2024</span>.
-- *2024.01*: &nbsp; 🎉 2 paper accepted by <span style="color: red;">ICASSP 2024</span>.
+- *2024.01*: &nbsp; 🎉 2 papers accepted by <span style="color: red;">ICASSP 2024</span>.
 - *2023.11*: &nbsp; 👓 Joined Professor Jianhua Tao's group at the Institute of Automation for my Ph.D. joint training, under the specific guidance of Dr. Ruibo Fu.
 - *2023.10*: &nbsp; 🎉 1 journal paper accepted by <span style="color: red;">TIFS</span>.
 - *2023.08*: &nbsp; ✈️ Participated in IJCAI 2023 DADA workshop (ADD2023) in Macao, delivering one presentation.
-- *2023.06*: &nbsp; 🎉 2 paper accepted by <span style="color: red;">INTERSPEECH 2023</span> and <span style="color: red;">IJCAI 2023 DADA workshop</span>.
+- *2023.06*: &nbsp; 🎉 2 papers accepted by <span style="color: red;">INTERSPEECH 2023</span> and <span style="color: red;">IJCAI 2023 DADA workshop</span>.
 - *2023.05*: &nbsp; 💻 Participated in the ADD2023 Competition, achieving rankings of 6/14 in Track 1.1, 5/52 in Track 1.2, and 6/17 in Track 2.
 - *2022.09*: &nbsp; 👓 Joined Professor Long Ye's group at the Communication University of China, under the specific guidance of Dr. Haonan Cheng.
 
@@ -49,33 +50,56 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 
 - **J1-TIFS 2024:** Domain Generalization Via Aggregation and Separation for Audio Deepfake Detection
 
-  **Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
+  <u>**Yuankun Xie†**</u>, Haonan Cheng, Yutian Wang, Long Ye
 
 ### Conference
 
 
+
+- **C9-INTERSPEECH 2024:** Generalized Source Tracing: Detecting Novel Audio Deepfake Algorithm with Real Emphasis and Fake Dispersion strategy
+  
+  <u>**Yuankun Xie†**</u>, Ruibo Fu, Wen Zhengqi, Zhiyong Wang, Xiaopeng Wang, Haonan Cheng, 
+Long Ye, Jianhua Tao
+
+- **C8-INTERSPEECH 2024:** Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio
+  
+  Yi Lu†, <u>**Yuankun Xie†**</u>, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Zhiyong Wang, Xin Qi,
+  Xuefei Liu, Yongwei Li, Yukun Liu, Xiaopeng Wang, Shuchen Shi
+
+
+- **C7-INTERSPEECH 2024:** Generalized Fake Audio Detection via Deep Stable Learning
+
+  Zhiyong Wang, Ruibo Fu, Zhengqi Wen, <u>**Yuankun Xie†**</u>, Yukun Liu, Xiaopeng Wang, Xuefei Liu, Yongwei Li, Jianhua Tao, Xin Qi, Yi Lu, Shuchen Shi
+
+
+- **C6-INTERSPEECH 2024:** Genuine-Focused Learning using Mask AutoEncoder for Generalized Fake Audio Detection
+
+  Xiaopeng Wang, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, <u>**Yuankun Xie†**</u>, Yukun Liu, Jianhua Tao, Xuefei Liu, Yongwei Li, Xin Qi, Yi Lu, Shuchen Shi
+
+
+
 - **C5-ICASSP 2024:** An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection
   
-  **Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
+  <u>**Yuankun Xie†**</u>, Haonan Cheng, Yutian Wang, Long Ye
 
 
 - **C4-ICASSP 2024:** FSD: An initial chinese dataset for fake song detection
   
-  **Yuankun Xie**, Jingjing Zhou, Xiaolin Lu, Zhenghao Jiang, Yuxin Yang, Haonan Cheng, Long Ye
+  <u>**Yuankun Xie†**</u>, Jingjing Zhou, Xiaolin Lu, Zhenghao Jiang, Yuxin Yang, Haonan Cheng, Long Ye
 
 
 - **C3-IJCAI 2023:** Single domain generalization for audio deepfake detection
   
-  **Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
+  <u>**Yuankun Xie†**</u>, Haonan Cheng, Yutian Wang, Long Ye
 
 
 - **C2-INTERSPEECH 2023:** Learning A Self-Supervised Domain-Invariant Feature Representation for Generalized Audio Deepfake Detection
   
-  **Yuankun Xie**, Haonan Cheng, Yutian Wang, Long Ye
+  <u>**Yuankun Xie†**</u>, Haonan Cheng, Yutian Wang, Long Ye
 
 - **C1-ICME 2023:** Unsupervised quantized prosody representation for controllable speech synthesis
   
-  Yutian Wang, **Yuankun Xie**, Kun Zhao, Hui Wang, Qin Zhang
+  Yutian Wang†, <u>**Yuankun Xie†**</u>, Kun Zhao, Hui Wang, Qin Zhang
 
 
 
