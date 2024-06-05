@@ -40,7 +40,7 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 ### Preprint
 - The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio
 
-  **Yuankun Xie**, Yi Lu, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Jianhua Tao, Xin Qi, Xiaopeng Wang, Yukun Liu, Haonan Cheng, Long Ye, Yi Sun
+  <span style="color: red;">Yuankun Xie</span>, Yi Lu, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Jianhua Tao, Xin Qi, Xiaopeng Wang, Yukun Liu, Haonan Cheng, Long Ye, Yi Sun
 
 
 
@@ -50,13 +50,58 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 
 - **J1-TIFS 2024:** Domain Generalization Via Aggregation and Separation for Audio Deepfake Detection
 
-  <strong><u>Yuankun Xie</u></strong>, Haonan Cheng, Yutian Wang, Long Ye
+  <span style="color: red;">Yuankun Xie</span>, Haonan Cheng, Yutian Wang, Long Ye
 
 ### Conference
 
-
-
 - **C9-INTERSPEECH 2024:** Generalized Source Tracing: Detecting Novel Audio Deepfake Algorithm with Real Emphasis and Fake Dispersion strategy
+  
+  <span style="color: red;">Yuankun Xie</span>, Ruibo Fu, Wen Zhengqi, Zhiyong Wang, Xiaopeng Wang, Haonan Cheng, 
+Long Ye, Jianhua Tao
+
+- **C8-INTERSPEECH 2024:** Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio
+  
+  Yi Lu†, <span style="color: red;">Yuankun Xie</span>, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Zhiyong Wang, Xin Qi,
+  Xuefei Liu, Yongwei Li, Yukun Liu, Xiaopeng Wang, Shuchen Shi
+
+
+- **C7-INTERSPEECH 2024:** Generalized Fake Audio Detection via Deep Stable Learning
+
+  Zhiyong Wang, Ruibo Fu, Zhengqi Wen, <span style="color: red;">Yuankun Xie</span>, Yukun Liu, Xiaopeng Wang, Xuefei Liu, Yongwei Li, Jianhua Tao, Xin Qi, Yi Lu, Shuchen Shi
+
+
+- **C6-INTERSPEECH 2024:** Genuine-Focused Learning using Mask AutoEncoder for Generalized Fake Audio Detection
+
+  Xiaopeng Wang, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, <span style="color: red;">Yuankun Xie</span>, Yukun Liu, Jianhua Tao, Xuefei Liu, Yongwei Li, Xin Qi, Yi Lu, Shuchen Shi
+
+
+
+- **C5-ICASSP 2024:** An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection
+  
+  <span style="color: red;">Yuankun Xie</span>, Haonan Cheng, Yutian Wang, Long Ye
+
+
+- **C4-ICASSP 2024:** FSD: An initial chinese dataset for fake song detection
+  
+  <span style="color: red;">Yuankun Xie</span>, Jingjing Zhou, Xiaolin Lu, Zhenghao Jiang, Yuxin Yang, Haonan Cheng, Long Ye
+
+
+- **C3-IJCAI 2023:** Single domain generalization for audio deepfake detection
+  
+  <span style="color: red;">Yuankun Xie</span>, Haonan Cheng, Yutian Wang, Long Ye
+
+
+- **C2-INTERSPEECH 2023:** Learning A Self-Supervised Domain-Invariant Feature Representation for Generalized Audio Deepfake Detection
+  
+   <span style="color: red;">Yuankun Xie</span>, Haonan Cheng, Yutian Wang, Long Ye
+
+- **C1-ICME 2023:** Unsupervised quantized prosody representation for controllable speech synthesis
+  
+  Yutian Wang†,  <span style="color: red;">Yuankun Xie</span>, Kun Zhao, Hui Wang, Qin Zhang
+
+
+
+<!-- - **C9-INTERSPEECH 2024:** Generalized Source Tracing: Detecting Novel Audio Deepfake Algorithm with Real Emphasis and Fake Dispersion strategy
   
   <strong><u>Yuankun Xie</u></strong>, Ruibo Fu, Wen Zhengqi, Zhiyong Wang, Xiaopeng Wang, Haonan Cheng, 
 Long Ye, Jianhua Tao
@@ -99,7 +144,7 @@ Long Ye, Jianhua Tao
 
 - **C1-ICME 2023:** Unsupervised quantized prosody representation for controllable speech synthesis
   
-  Yutian Wang†,  <strong><u>Yuankun Xie†</u></strong>, Kun Zhao, Hui Wang, Qin Zhang
+  Yutian Wang†,  <strong><u>Yuankun Xie†</u></strong>, Kun Zhao, Hui Wang, Qin Zhang -->
 
 
 
