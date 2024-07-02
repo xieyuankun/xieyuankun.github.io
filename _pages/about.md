@@ -98,8 +98,9 @@ Long Ye, Jianhua Tao
 
 
 # 💻 Competition
+- *2024.7* IJCAI 2024 [The 9th FinVolution Global Data Science Competition: Deepfake Speech Detection Challenge](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=34&tabindex=2), preliminary round 2/202, final round 12/30.
 - *2023.5* IJCAI 2023 DADA workshop Track 1.1, 6/14 
-- *2023.5* IJCAI 2023 DADA workshop Track 1.2, 5/52
+- *2023.5* IJCAI 2023 [DADA workshop](https://codalab.lisn.upsaclay.fr/competitions/11362) Track 1.2, 5/52
 - *2023.5* IJCAI 2023 DADA workshop Track 2, 6/17 
 
 # 🌏 Visitor Map
