@@ -18,7 +18,7 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 
 
 # 🔥 Milestones
-- *2024.08*: &nbsp; 🎉 1 papers accepted by <span style="color: red; font-weight: bold;">ASVspoof2024 workshop</span>.
+- *2024.08*: &nbsp; 🎉 1 papers accepted by <span style="color: red; font-weight: bold;">INTERSPEECH 2024W (ASVspoof2024)</span>.
 - *2024.08*: &nbsp; 🎉 3 papers accepted by <span style="color: red; font-weight: bold;">ISCSLP 2024</span>.
 - *2024.06*: &nbsp; 🎉 4 papers accepted by <span style="color: red; font-weight: bold;">INTERSPEECH 2024</span>.
 - *2024.05*: &nbsp; 📣 Submitted 1 journal paper to <span style="color: red; font-weight: bold;">TASLP</span>.
@@ -49,7 +49,7 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 
 ### Conference
 
-- **C12-ASVspoof2024 workshop:** Temporal Variability and Multi-Viewed Self-Supervised Representations to Tackle the ASVspoof5 Deepfake Challenge
+- **C12-INTERSPEECH 2024W (ASVspoof2024):** Temporal Variability and Multi-Viewed Self-Supervised Representations to Tackle the ASVspoof5 Deepfake Challenge
   
   <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Xiaopeng Wang, Zhiyong Wang, Ruibo Fu, Zhengqi Wen, Haonan Cheng, Long Ye
 
