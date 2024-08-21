@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "   Yuankun Xie"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD student"
+  bio              : "PhD candidate"
   location         : "Beijing, China"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1KAs5egAAAAJ"
   email            : "xieyuankun@cuc.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yuankun-Xie"
   uri              :
   bitbucket        :
   codepen          :
