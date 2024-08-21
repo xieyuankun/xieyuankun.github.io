@@ -33,7 +33,6 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 - *2022.09*: &nbsp; 👓 Joined Professor Long Ye's group at the Communication University of China, under the specific guidance of Dr. Haonan Cheng.
 
 # 📝 Publications 
-<small>
 ### Preprint
 - The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio
 
@@ -62,6 +61,7 @@ My research interests include audio deepfake detection, speech synthesis, and vo
   Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Yukun Liu, Guanjun Li, Xin Qi, Yi Lu, Xuefei Liu, Yongwei Li
 
 - **C9-ISCSLP 2024:** EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech
+- 
  Xin Qi, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Shuchen Shi, Yi Lu, Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yukun Liu, Guanjun Li, Xuefei Liu, Yongwei Li
 
 - **C8-INTERSPEECH 2024:** Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio
@@ -103,7 +103,6 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 - **C1-ICME 2023:** Unsupervised quantized prosody representation for controllable speech synthesis
   
   Yutian Wang†,  <span style="color: red; font-weight: bold;">Yuankun Xie†</span>, Kun Zhao, Hui Wang, Qin Zhang
-</small>
 
 
 
