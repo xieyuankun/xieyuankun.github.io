@@ -54,20 +54,20 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 
 - **C11-ISCSLP 2024:** Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?
   
-  <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Chenxu Xiong, Xiaopeng Wang, Zhiyong Wang, Yi Lu, Xin Qi, Ruibo Fu, Yukun Liu, Zhengqi Wen, Jianhua Tao, Guanjun Li, Long Ye
+  <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Chenxu Xiong, Xiaopeng Wang, Zhiyong Wang, Yi Lu, Xin Qi, Ruibo Fu, Yukun Liu, Zhengqi Wen, Jianhua Tao, et al.
 
 - **C10-ISCSLP 2024:** A Noval Feature via Color Quantisation for Fake Audio Detection
   
-  Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Yukun Liu, Guanjun Li, Xin Qi, Yi Lu, Xuefei Liu, Yongwei Li
+  Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Yukun Liu, Guanjun Li, Xin Qi, Yi Lu, et al.
 
 - **C9-ISCSLP 2024:** EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech
 - 
- Xin Qi, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Shuchen Shi, Yi Lu, Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yukun Liu, Guanjun Li, Xuefei Liu, Yongwei Li
+ Xin Qi, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Shuchen Shi, Yi Lu, Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yukun Liu, Guanjun Li, et al.
 
 - **C8-INTERSPEECH 2024:** Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio
   
   Yi Lu†, <span style="color: red; font-weight: bold;">Yuankun Xie†</span>, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Zhiyong Wang, Xin Qi,
-  Xuefei Liu, Yongwei Li, Yukun Liu, Xiaopeng Wang, Shuchen Shi
+  Xuefei Liu, Yongwei Li, Yukun Liu, et al.
 
 
 - **C7-INTERSPEECH 2024:** Generalized Fake Audio Detection via Deep Stable Learning
@@ -77,7 +77,7 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 
 - **C6-INTERSPEECH 2024:** Genuine-Focused Learning using Mask AutoEncoder for Generalized Fake Audio Detection
 
-  Xiaopeng Wang, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yukun Liu, Jianhua Tao, Xuefei Liu, Yongwei Li, Xin Qi, Yi Lu, Shuchen Shi
+  Xiaopeng Wang, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yukun Liu, Jianhua Tao, Xuefei Liu, Yongwei Li, Xin Qi, et al.
 
 
 
