@@ -59,7 +59,7 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 
 - **C10-ISCSLP 2024:** A Noval Feature via Color Quantisation for Fake Audio Detection
   
-  <span style="color: red; font-weight: bold;">Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Yukun Liu, Guanjun Li, Xin Qi, Yi Lu, Xuefei Liu, Yongwei Li
+  Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Yukun Liu, Guanjun Li, Xin Qi, Yi Lu, Xuefei Liu, Yongwei Li
 
 - **C9-ISCSLP 2024:** EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech
  Xin Qi, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Shuchen Shi, Yi Lu, Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yukun Liu, Guanjun Li, Xuefei Liu, Yongwei Li
