@@ -51,21 +51,25 @@ My research interests include audio deepfake detection, speech synthesis, and vo
 
 ### Conference
 
-- **C12-INTERSPEECH 2024W (ASVspoof2024):** Temporal Variability and Multi-Viewed Self-Supervised Representations to Tackle the ASVspoof5 Deepfake Challenge
+- **C13-INTERSPEECH 2024W (ASVspoof2024):** Temporal Variability and Multi-Viewed Self-Supervised Representations to Tackle the ASVspoof5 Deepfake Challenge
   
   <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Xiaopeng Wang, Zhiyong Wang, Ruibo Fu, Zhengqi Wen, Haonan Cheng, Long Ye
 
-- **C11-ISCSLP 2024:** Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?
+- **C12-ISCSLP 2024:** Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?
   
   <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Chenxu Xiong, Xiaopeng Wang, Zhiyong Wang, Yi Lu, Xin Qi, Ruibo Fu, Yukun Liu, Zhengqi Wen, Jianhua Tao, et al.
 
-- **C10-ISCSLP 2024:** A Noval Feature via Color Quantisation for Fake Audio Detection
+- **C11-ISCSLP 2024:** A Noval Feature via Color Quantisation for Fake Audio Detection
   
   Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Yukun Liu, Guanjun Li, Xin Qi, Yi Lu, et al.
 
-- **C9-ISCSLP 2024:** EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech
+- **C10-ISCSLP 2024:** EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech
 - 
  Xin Qi, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Shuchen Shi, Yi Lu, Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yukun Liu, Guanjun Li, et al.
+
+- **C9-INTERSPEECH 2024:** Generalized Source Tracing: Detecting Novel Audio Deepfake Algorithm with Real Emphasis and Fake Dispersion strategy
+  
+  <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Xiaopeng Wang, Haonnan Cheng, Long Ye, Jianhua Tao
 
 - **C8-INTERSPEECH 2024:** Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio
   
