@@ -12,9 +12,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Yuankun Xie, currently a second-year Ph.D. student at the Communication University of China and engaged in joint Ph.D. training at the Institute of Automation, Chinese Academy of Sciences.
+Hi there, I am Yuankun Xie, currently a third-year Ph.D. candidate at the Communication University of China and engaged in joint Ph.D. training at the Institute of Automation, Chinese Academy of Sciences.
 
-My research interests include audio deepfake detection, speech synthesis, and voice conversion. I have published <span style="color: red; font-weight: bold;">10+</span> papers in top international audio conferences and journals.
+My research interests encompass audio deepfake detection (both global and partial detection, as well as deepfake audio source tracing), speech synthesis, and voice conversion. I have published <span style="color: red; font-weight: bold;">10+</span> papers at the top international AI conferences and journals such as TIFS, IJCAI, ICASSP, INTERSPEECH.
 
 
 # 🔥 Milestones
