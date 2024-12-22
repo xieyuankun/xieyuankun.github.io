@@ -121,4 +121,4 @@ My research interests encompass audio deepfake detection (both global and partia
 
 
 # 🌏 Visitor Map
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Ll_923J16YZ79I-H6twDqzPNsFpAv-lzwzFg-BGT8tI"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=Ll_923J16YZ79I-H6twDqzPNsFpAv-lzwzFg-BGT8tI&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
