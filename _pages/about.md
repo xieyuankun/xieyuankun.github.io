@@ -35,14 +35,15 @@ My research interests encompass audio deepfake detection (both global and partia
 # 📝 First-Author Publications 
 To learn more about my publications, please visit my Google Scholar page.
 ### Journal
+- **J2-TASLP 2025:** The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio
 
+  <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yi Lu, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Jianhua Tao, Xin Qi, Xiaopeng Wang, Yukun Liu, Haonan Cheng, Long Ye, Yi Sun
+  
 - **J1-TIFS 2024:** Domain Generalization Via Aggregation and Separation for Audio Deepfake Detection
 
   <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Haonan Cheng, Yutian Wang, Long Ye
 
-- **J2-TASLP 2025:** The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio
 
-  <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yi Lu, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Jianhua Tao, Xin Qi, Xiaopeng Wang, Yukun Liu, Haonan Cheng, Long Ye, Yi Sun
 
 ### Conference
 
