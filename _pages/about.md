@@ -14,14 +14,14 @@ redirect_from:
 
 Hi there, I am Yuankun Xie, currently a third-year Ph.D. candidate at the Communication University of China and engaged in joint Ph.D. training at the Institute of Automation, Chinese Academy of Sciences.
 
-My research interests encompass audio deepfake detection (both global and partial detection, as well as deepfake audio source tracing), speech synthesis, and voice conversion. I have published <span style="color: red; font-weight: bold;">10+</span> papers at the top international AI conferences and journals such as TIFS, IJCAI, ICASSP, INTERSPEECH.
+My research interests encompass audio deepfake detection (both global and partial detection, as well as deepfake audio source tracing), speech synthesis, and voice conversion. I have published <span style="color: red; font-weight: bold;">20+</span> papers at the top international AI conferences and journals such as TIFS, IJCAI, ICASSP, INTERSPEECH.
 
 
 # 🔥 Milestones
+- *2024.12*: &nbsp; 🎉 1 journal papers accepted by <span style="color: red; font-weight: bold;">TASLP</span>.
 - *2024.08*: &nbsp; 🎉 1 papers accepted by <span style="color: red; font-weight: bold;">INTERSPEECH 2024W (ASVspoof2024)</span>.
 - *2024.08*: &nbsp; 🎉 3 papers accepted by <span style="color: red; font-weight: bold;">ISCSLP 2024</span>.
 - *2024.06*: &nbsp; 🎉 4 papers accepted by <span style="color: red; font-weight: bold;">INTERSPEECH 2024</span>.
-- *2024.05*: &nbsp; 📣 Submitted 1 journal paper to <span style="color: red; font-weight: bold;">TASLP</span>.
 - *2024.04*: &nbsp; 🌏 Participated in ICASSP 2024 in Korea, presenting one poster and one oral presentation.
 - *2024.03*: &nbsp; 📣 Submitted 4 papers to <span style="color: red; font-weight: bold;">INTERSPEECH 2024</span>.
 - *2024.01*: &nbsp; 🎉 2 papers accepted by <span style="color: red; font-weight: bold;">ICASSP 2024</span>.
@@ -32,60 +32,39 @@ My research interests encompass audio deepfake detection (both global and partia
 - *2023.05*: &nbsp; 💻 Participated in the ADD2023 Competition, achieving rankings of 6/14 in Track 1.1, 5/52 in Track 1.2, and 6/17 in Track 2.
 - *2022.09*: &nbsp; 👓 Joined Professor Long Ye's group at the Communication University of China, under the specific guidance of Dr. Haonan Cheng.
 
-# 📝 Publications 
-
-<!-- 上限10个作者 -->
-
-### Preprint
-- The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio
-
-  <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yi Lu, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Jianhua Tao, Xin Qi, Xiaopeng Wang, Yukun Liu, Haonan Cheng, Long Ye, Yi Sun
-
-
-
+# 📝 First-Author Publications 
+To learn more about my publications, please visit my Google Scholar page.
 ### Journal
 
 - **J1-TIFS 2024:** Domain Generalization Via Aggregation and Separation for Audio Deepfake Detection
 
   <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Haonan Cheng, Yutian Wang, Long Ye
 
+- **J2-TASLP 2025:** The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio
+
+  <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yi Lu, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Jianhua Tao, Xin Qi, Xiaopeng Wang, Yukun Liu, Haonan Cheng, Long Ye, Yi Sun
 ### Conference
 
-- **C13-INTERSPEECH 2024W (ASVspoof2024):** Temporal Variability and Multi-Viewed Self-Supervised Representations to Tackle the ASVspoof5 Deepfake Challenge
+- **C10-INTERSPEECH 2025 (submitted):** Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition
+  
+  <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Xiaopeng Wang, Zhiyong Wang, Ruibo Fu, Zhengqi Wen, Songjun Cao, Long Ma, Chenxing Li, Haonnan Cheng, Long Ye
+
+- **C9-INTERSPEECH 2024W (ASVspoof2024):** Temporal Variability and Multi-Viewed Self-Supervised Representations to Tackle the ASVspoof5 Deepfake Challenge
   
   <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Xiaopeng Wang, Zhiyong Wang, Ruibo Fu, Zhengqi Wen, Haonan Cheng, Long Ye
 
-- **C12-ISCSLP 2024:** Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?
+- **C8-ISCSLP 2024:** Does Current Deepfake Audio Detection Model Effectively Detect ALM-based Deepfake Audio?
   
   <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Chenxu Xiong, Xiaopeng Wang, Zhiyong Wang, Yi Lu, Xin Qi, Ruibo Fu, Yukun Liu, Zhengqi Wen, Jianhua Tao, et al.
 
-- **C11-ISCSLP 2024:** A Noval Feature via Color Quantisation for Fake Audio Detection
-  
-  Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Yukun Liu, Guanjun Li, Xin Qi, Yi Lu, et al.
-
-- **C10-ISCSLP 2024:** EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech
-- 
- Xin Qi, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Shuchen Shi, Yi Lu, Zhiyong Wang, Xiaopeng Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yukun Liu, Guanjun Li, et al.
-
-- **C9-INTERSPEECH 2024:** Generalized Source Tracing: Detecting Novel Audio Deepfake Algorithm with Real Emphasis and Fake Dispersion strategy
+- **C7-INTERSPEECH 2024:** Generalized Source Tracing: Detecting Novel Audio Deepfake Algorithm with Real Emphasis and Fake Dispersion strategy
   
   <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, Xiaopeng Wang, Haonnan Cheng, Long Ye, Jianhua Tao
 
-- **C8-INTERSPEECH 2024:** Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio
+- **C6-INTERSPEECH 2024:** Codecfake: An Initial Dataset for Detecting LLM-based Deepfake Audio
   
   Yi Lu†, <span style="color: red; font-weight: bold;">Yuankun Xie†</span>, Ruibo Fu, Zhengqi Wen, Jianhua Tao, Zhiyong Wang, Xin Qi,
   Xuefei Liu, Yongwei Li, Yukun Liu, et al.
-
-
-- **C7-INTERSPEECH 2024:** Generalized Fake Audio Detection via Deep Stable Learning
-
-  Zhiyong Wang, Ruibo Fu, Zhengqi Wen, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yukun Liu, Xiaopeng Wang, Xuefei Liu, Yongwei Li, Jianhua Tao, Xin Qi, et al.
-
-
-- **C6-INTERSPEECH 2024:** Genuine-Focused Learning using Mask AutoEncoder for Generalized Fake Audio Detection
-
-  Xiaopeng Wang, Ruibo Fu, Zhengqi Wen, Zhiyong Wang, <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Yukun Liu, Jianhua Tao, Xuefei Liu, Yongwei Li, Xin Qi, et al.
-
 
 
 - **C5-ICASSP 2024:** An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection
