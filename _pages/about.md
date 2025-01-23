@@ -14,7 +14,7 @@ redirect_from:
 
 Hi there, I am Yuankun Xie, currently a third-year Ph.D. candidate at the Communication University of China and engaged in joint Ph.D. training at the Institute of Automation, Chinese Academy of Sciences.
 
-My research interests encompass audio deepfake detection (both global and partial detection, as well as audio deepfake source tracing), domain generalization, out-of-distribution detection, audio neural codec. I have published <span style="color: red; font-weight: bold;">20+</span> papers at the top international AI conferences and journals such as TIFS, IJCAI, ICASSP, INTERSPEECH.
+My research interests encompass Audio Deepfake Detection (Global Audio Deepfake Detection, Partially Audio Deepfake Localization, Audio Deepfake Source Tracing), Domain Generalization, Out-of-Distribution Detection, Neural Audio Codec. I have published <span style="color: red; font-weight: bold;">20+</span> papers at the top international AI conferences and journals such as TIFS, IJCAI, ICASSP, INTERSPEECH.
 
 
 # 🔥 Milestones
