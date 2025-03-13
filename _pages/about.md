@@ -26,12 +26,12 @@ My research interests encompass Audio Deepfake Detection (Global Audio Deepfake 
 - *2024.04*: &nbsp; 🌏 Participated in ICASSP 2024 in Korea, presenting one poster and one oral presentation.
 - *2024.03*: &nbsp; 📣 Submitted 4 papers to <span style="color: red; font-weight: bold;">INTERSPEECH 2024</span>.
 - *2024.01*: &nbsp; 🎉 2 papers accepted by <span style="color: red; font-weight: bold;">ICASSP 2024</span>.
-- *2023.11*: &nbsp; 👓 Joined Professor Jianhua Tao's group at the Institute of Automation for my Ph.D. joint training, under the specific guidance of Dr. Ruibo Fu.
+- *2023.11*: &nbsp; 👓 Joined Professor [Jianhua Tao](https://scholar.google.com/citations?user=781jbHMAAAAJ&hl=zh-CN)'s group at the Institute of Automation for my Ph.D. joint training, under the specific guidance of Dr. [Ruibo Fu](https://scholar.google.com/citations?user=xrTAz_gAAAAJ&hl=zh-CN).
 - *2023.10*: &nbsp; 🎉 1 journal paper accepted by <span style="color: red; font-weight: bold;">TIFS</span>.
 - *2023.08*: &nbsp; 🌏 Participated in IJCAI 2023 DADA workshop (ADD2023) in Macao, delivering one presentation.
 - *2023.06*: &nbsp; 🎉 2 papers accepted by <span style="color: red; font-weight: bold;">INTERSPEECH 2023</span> and <span style="color: red; font-weight: bold;">IJCAI 2023 DADA workshop</span>.
 - *2023.05*: &nbsp; 💻 Participated in the ADD2023 Competition, achieving rankings of 6/14 in Track 1.1, 5/52 in Track 1.2, and 6/17 in Track 2.
-- *2022.09*: &nbsp; 👓 Joined Professor Long Ye's group at the Communication University of China, under the specific guidance of Dr. Haonan Cheng.
+- *2022.09*: &nbsp; 👓 Joined Professor [Long Ye](https://ices.cuc.edu.cn/2020/0821/c5332a172456/pagem.htm)'s group at the Communication University of China, under the specific guidance of Dr. [Haonan Cheng](https://haonancheng.cn/).
 
 # 📝 First-Author Publications 
 To learn more about my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=1KAs5egAAAAJ&hl=zh-CN&oi=ao). 
