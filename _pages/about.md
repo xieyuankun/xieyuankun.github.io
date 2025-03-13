@@ -70,7 +70,7 @@ To learn more about my publications, please visit my [Google Scholar page](https
   Xuefei Liu, Yongwei Li, Yukun Liu, et al.
 
 
-- **C5-ICASSP 2024:** An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection [paper](https://ieeexplore.ieee.org/abstract/document/10448196)[[code]](https://github.com/xieyuankun/TDL-ADD)
+- **C5-ICASSP 2024:** An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection [[paper]](https://ieeexplore.ieee.org/abstract/document/10448196)[[code]](https://github.com/xieyuankun/TDL-ADD)
   
   <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Haonan Cheng, Yutian Wang, Long Ye
 
