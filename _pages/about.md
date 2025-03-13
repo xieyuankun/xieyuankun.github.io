@@ -17,6 +17,7 @@ Hi there, I am Yuankun Xie, currently a third-year Ph.D. candidate at the Commun
 My research interests encompass audio deepfake detection (both global and partial detection, as well as audio deepfake source tracing), domain generalization, out-of-distribution detection, audio neural codec. I have published <span style="color: red; font-weight: bold;">20+</span> papers at the top international AI conferences and journals such as TIFS, IJCAI, ICASSP, INTERSPEECH.
 
 
+
 # 🔥 Milestones
 - *2024.12*: &nbsp; 🎉 1 journal papers accepted by <span style="color: red; font-weight: bold;">TASLP</span>.
 - *2024.08*: &nbsp; 🎉 1 papers accepted by <span style="color: red; font-weight: bold;">INTERSPEECH 2024W (ASVspoof2024)</span>.
@@ -33,7 +34,7 @@ My research interests encompass audio deepfake detection (both global and partia
 - *2022.09*: &nbsp; 👓 Joined Professor Long Ye's group at the Communication University of China, under the specific guidance of Dr. Haonan Cheng.
 
 # 📝 First-Author Publications 
-To learn more about my publications, please visit my Google Scholar page.
+To learn more about my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=1KAs5egAAAAJ&hl=zh-CN&oi=ao). 
 ### Journal
 - **J2-TASLP 2025:** The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio
 
