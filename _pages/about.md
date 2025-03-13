@@ -20,11 +20,11 @@ My research interests encompass Audio Deepfake Detection (Global Audio Deepfake 
 
 # 🔥 Milestones
 - *2024.12*: &nbsp; 🎉 1 journal papers accepted by <span style="color: red; font-weight: bold;">TASLP</span>.
+- *2024.09*: &nbsp; 🌏 Participated in INTERSPEECH 2024 in Greece, presenting one poster and one oral presentation.
 - *2024.08*: &nbsp; 🎉 1 papers accepted by <span style="color: red; font-weight: bold;">INTERSPEECH 2024W (ASVspoof2024)</span>.
 - *2024.08*: &nbsp; 🎉 3 papers accepted by <span style="color: red; font-weight: bold;">ISCSLP 2024</span>.
 - *2024.06*: &nbsp; 🎉 4 papers accepted by <span style="color: red; font-weight: bold;">INTERSPEECH 2024</span>.
 - *2024.04*: &nbsp; 🌏 Participated in ICASSP 2024 in Korea, presenting one poster and one oral presentation.
-- *2024.03*: &nbsp; 📣 Submitted 4 papers to <span style="color: red; font-weight: bold;">INTERSPEECH 2024</span>.
 - *2024.01*: &nbsp; 🎉 2 papers accepted by <span style="color: red; font-weight: bold;">ICASSP 2024</span>.
 - *2023.11*: &nbsp; 👓 Joined Professor [Jianhua Tao](https://scholar.google.com/citations?user=781jbHMAAAAJ&hl=zh-CN)'s group at the Institute of Automation for my Ph.D. joint training, under the specific guidance of Dr. [Ruibo Fu](https://scholar.google.com/citations?user=xrTAz_gAAAAJ&hl=zh-CN).
 - *2023.10*: &nbsp; 🎉 1 journal paper accepted by <span style="color: red; font-weight: bold;">TIFS</span>.
@@ -92,6 +92,11 @@ To learn more about my publications, please visit my [Google Scholar page](https
 - **C1-ICME 2023:** Unsupervised quantized prosody representation for controllable speech synthesis [[paper]](https://ieeexplore.ieee.org/abstract/document/9859946)
   
   Yutian Wang†,  <span style="color: red; font-weight: bold;">Yuankun Xie†</span>, Kun Zhao, Hui Wang, Qin Zhang
+
+# 🏢 Industrial experiences
+## *2024.11 - 2025.3* Research Intern, Tencent YouTu Lab (Beijing, China)
+- Focused on audio deepfake detection on social media platform.
+- Developed universally cross-type audio deepfake detection (including speech, sound, singing voice, and music).
 
 
 
