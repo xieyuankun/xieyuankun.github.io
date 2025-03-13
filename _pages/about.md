@@ -94,7 +94,7 @@ To learn more about my publications, please visit my [Google Scholar page](https
   Yutian Wang†,  <span style="color: red; font-weight: bold;">Yuankun Xie†</span>, Kun Zhao, Hui Wang, Qin Zhang
 
 # 🏢 Industrial experiences
-## *2024.11 - 2025.3* Research Intern, Tencent YouTu Lab (Beijing, China)
+### *2024.11 - 2025.3* Research Intern, Tencent YouTu Lab (Beijing, China)
 - Focused on audio deepfake detection on social media platform.
 - Developed universally cross-type audio deepfake detection (including speech, sound, singing voice, and music).
 
