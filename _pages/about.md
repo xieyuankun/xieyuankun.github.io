@@ -18,6 +18,8 @@ My research interests encompass Audio Deepfake Detection (Global Audio Deepfake 
 
 
 
+
+
 # 🔥 Milestones
 - *2024.12*: &nbsp; 🎉 1 journal papers accepted by <span style="color: red; font-weight: bold;">TASLP</span>.
 - *2024.09*: &nbsp; 🌏 Participated in INTERSPEECH 2024 in Greece, presenting one poster and one oral presentation.
@@ -47,6 +49,10 @@ To learn more about my publications, please visit my [Google Scholar page](https
 
 
 ### Conference
+
+- **C11-ACM MM 2025 (submitted):** Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception [[paper]](https://arxiv.org/pdf/2504.06753)[[code]](https://github.com/xieyuankun/All-Type-ADD)
+  
+  <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Ruibo Fu, Zhiyong Wang, Xiaopeng Wang, Songjun Cao, Long Ma, Haonan Cheng, Long Ye
 
 - **C10-INTERSPEECH 2025 (submitted):** Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition [[paper]](https://arxiv.org/abs/2501.06514)[[code]](https://github.com/xieyuankun/ST-Codecfake)
   
@@ -94,9 +100,10 @@ To learn more about my publications, please visit my [Google Scholar page](https
   Yutian Wang†,  <span style="color: red; font-weight: bold;">Yuankun Xie†</span>, Kun Zhao, Hui Wang, Qin Zhang
 
 # 🏢 Industrial Experiences
-- *2024.11 - 2025.3* Research Intern, Tencent YouTu Lab (Beijing, China)
-  + Focused on audio deepfake detection on social media platform.
-  + Developed universally cross-type audio deepfake coutermeasure (including speech, sound, singing voice, and music).
+- *2024.11 - 2025.4* Research Intern, Tencent YouTu Lab (Beijing, China)
+  + (INTERSPEECH 25) Focused on audio deepfake detection on social media platform.
+  + (INTERSPEECH 25) Open-set neural codec source tracing and explainable ALM-based deepfake audio detection.
+  + (ACM MM 25) Developed universally cross-type audio deepfake coutermeasure (including speech, sound, singing voice, and music).
 
 
 # 💻 Competition
