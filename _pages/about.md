@@ -36,6 +36,7 @@ My research interests encompass Audio Deepfake Detection (Global Audio Deepfake 
 - *2022.09*: &nbsp; 👓 Joined Professor [Long Ye](https://ices.cuc.edu.cn/2020/0821/c5332a172456/pagem.htm)'s group at the Communication University of China, under the specific guidance of Dr. [Haonan Cheng](https://haonancheng.cn/).
 
 # 📝 First-Author Publications 
+<span class='anchor' id='publications'></span>
 To learn more about my publications, please visit my [Google Scholar page](https://scholar.google.com/citations?user=1KAs5egAAAAJ&hl=zh-CN&oi=ao). 
 ### Journal
 - **J2-TASLP 2025:** The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio [[paper]](https://ieeexplore.ieee.org/abstract/document/10830534/)[[code]](https://github.com/xieyuankun/Codecfake)
@@ -100,6 +101,7 @@ To learn more about my publications, please visit my [Google Scholar page](https
   Yutian Wang†,  <span style="color: red; font-weight: bold;">Yuankun Xie†</span>, Kun Zhao, Hui Wang, Qin Zhang
 
 # 🏢 Industrial Experiences
+<span class='anchor' id='industrial'></span>
 - *2024.11 - 2025.4* Research Intern, **Tencent YouTu Lab** (Beijing, China)
   + (ICASSP26) Focused on audio deepfake detection on social media platform.
   + (ICASSP26) Open-set neural codec source tracing and explainable ALM-based deepfake audio detection.
