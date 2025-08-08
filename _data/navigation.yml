@@ -7,7 +7,10 @@ main:
     url: "/#-milestones"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-First-Author Publications"
+
+  - title: "Industrial"
+    url: "/#-Industrial Experiences"
 
   - title: "Competition"
     url: "/#-competition"
