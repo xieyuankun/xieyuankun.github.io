@@ -50,11 +50,11 @@ To learn more about my publications, please visit my [Google Scholar page](https
 
 ### Conference
 
-- **C11-ACM MM 2025 (submitted):** Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception [[paper]](https://arxiv.org/pdf/2504.06753)[[code]](https://github.com/xieyuankun/All-Type-ADD)
+- **C11-AAAI 2026 (submitted):** Detect All-Type Deepfake Audio: Wavelet Prompt Tuning for Enhanced Auditory Perception [[paper]](https://arxiv.org/pdf/2504.06753)[[code]](https://github.com/xieyuankun/All-Type-ADD)
   
   <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Ruibo Fu, Zhiyong Wang, Xiaopeng Wang, Songjun Cao, Long Ma, Haonan Cheng, Long Ye
 
-- **C10-INTERSPEECH 2025 (submitted):** Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition [[paper]](https://arxiv.org/abs/2501.06514)[[code]](https://github.com/xieyuankun/ST-Codecfake)
+- **C10-ICASSP 2026 (submitted):** Neural Codec Source Tracing: Toward Comprehensive Attribution in Open-Set Condition [[paper]](https://arxiv.org/abs/2501.06514)[[code]](https://github.com/xieyuankun/ST-Codecfake)
   
   <span style="color: red; font-weight: bold;">Yuankun Xie</span>, Xiaopeng Wang, Zhiyong Wang, Ruibo Fu, Zhengqi Wen, Songjun Cao, Long Ma, Chenxing Li, Haonnan Cheng, Long Ye
 
@@ -101,11 +101,13 @@ To learn more about my publications, please visit my [Google Scholar page](https
 
 # 🏢 Industrial Experiences
 - *2024.11 - 2025.4* Research Intern, Tencent YouTu Lab (Beijing, China)
-  + (INTERSPEECH 25) Focused on audio deepfake detection on social media platform.
-  + (INTERSPEECH 25) Open-set neural codec source tracing and explainable ALM-based deepfake audio detection.
-  + (ACM MM 25) Developed universally cross-type audio deepfake coutermeasure (including speech, sound, singing voice, and music).
+  + (ICASSP26) Focused on audio deepfake detection on social media platform.
+  + (ICASSP26) Open-set neural codec source tracing and explainable ALM-based deepfake audio detection.
+  + (AAAI26) Developed universally cross-type audio deepfake coutermeasure (including speech, sound, singing voice, and music).
 
+- *2025.7 - 2025.8* Research Intern, Bytedance (Beijing, China)
 
+  + Focused on the task of synthesizing first-order ambisonic spatial audio from 360° VR video and spatial audio captions.
 # 💻 Competition
 - *2024.7* IJCAI 2024 [The 9th FinVolution Global Data Science Competition: Deepfake Speech Detection Challenge](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=34&tabindex=2), preliminary round 2/202, final round 12/30.
 - *2023.5* IJCAI 2023 DADA workshop Track 1.1, 6/14 
