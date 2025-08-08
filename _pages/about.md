@@ -109,7 +109,7 @@ To learn more about my publications, please visit my [Google Scholar page](https
 
 - *2025.7 - 2025.8* Research Intern, **ByteDance** (Beijing, China)
 
-  + Focused on the task of synthesizing first-order ambisonic spatial audio from 360° VR video and spatial audio captions.
+  + Focused on the task of synthesizing first-order ambisonic spatial audio from 360-degree video and spatial audio captions.
 
 # 💻 Competition
 - *2024.7* IJCAI 2024 [The 9th FinVolution Global Data Science Competition: Deepfake Speech Detection Challenge](https://ai.ppdai.com/mirror/goToMirrorDetailSix?mirrorId=34&tabindex=2), preliminary round 2/202, final round 12/30.
