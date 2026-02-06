@@ -15,3 +15,6 @@ main:
   - title: "Competition"
     url: "/#-competition"
 
+  - title: "CV"
+    url: "/assets/yuankunxie_cv.pdf"
+
