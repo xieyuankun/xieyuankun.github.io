@@ -12,14 +12,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Yuankun Xie, a fourth-year Ph.D. candidate at the Communication University of China, 
+Hi, I am Yuankun Xie, a final year Ph.D. candidate at the Communication University of China, 
 and a joint Ph.D. student at the Institute of Automation, Chinese Academy of Sciences.
 
-My research interests include **audio deepfake detection** (global detection, partial deepfake localization, and source tracing), 
+My research interests include **audio deepfake detection**, 
 **audio large language models (ALLMs)**, domain generalization, out-of-distribution detection, and neural audio codecs. 
 I have published <span style="color: red; font-weight: bold;">20+</span> papers in top-tier international AI conferences and journals, 
 including **TIFS, AAAI, IJCAI, ICASSP, and INTERSPEECH**.
 
+I am seeking a research-oriented postdoctoral position starting in June 2026 (expected graduation date). My research interests lie in speech and audio processing, with a particular focus on audio/multimodal deepfake detection and audio large language models. I am also open to related research topics beyond those listed above within the broader area of speech and audio processing. If you have relevant opportunities, please feel free to contact me at xieyuankun@cuc.edu.cn.
 
 # 🔥 Milestones
 - *2026.01*: &nbsp; 🎉 2 papers accepted by <span style="color: red; font-weight: bold;">ICASSP 2026</span>.
