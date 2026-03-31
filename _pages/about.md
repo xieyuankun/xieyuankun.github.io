@@ -23,6 +23,7 @@ including **TIFS, AAAI, IJCAI, ICASSP, and INTERSPEECH**.
 I am seeking a research-oriented postdoctoral position starting in June 2026 (expected graduation date). My research interests lie in speech and audio processing, with a particular focus on audio/multimodal deepfake detection and audio large language models. I am also open to related research topics beyond those listed above within the broader area of speech and audio processing. If you have relevant opportunities, please feel free to contact me at xieyuankun@cuc.edu.cn.
 
 # 🔥 Milestones
+- *2026.04*: &nbsp; 🚀 Organizing the <span style="color: red; font-weight: bold;">AT-ADD Grand Challenge</span> at ACM Multimedia 2026.
 - *2026.01*: &nbsp; 🎉 2 papers accepted by <span style="color: red; font-weight: bold;">ICASSP 2026</span>.
 - *2025.11*: &nbsp; 🎉 1 papers accepted by <span style="color: red; font-weight: bold;">AAAI 2026</span>.
 - *2025.11*: &nbsp; 💻 Ranked <span style="color: red; font-weight: bold;">1st place</span> in both Track 1 and Track 2 of the ESDD Competition.
