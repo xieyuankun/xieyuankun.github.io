@@ -81,12 +81,11 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 75px;
   text-align: center;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 100%;
     height: auto;
   }
 
