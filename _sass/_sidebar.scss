@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2.5 of 12);
+    @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -78,40 +78,31 @@
   align-items: center;
 }
 
+.author {
+  display: flex;
+  align-items: flex-start;
+}
+
 .author__avatar {
+  flex: 0 0 75px;
+  width: 75px;
+  text-align: center;
+}
+
+.author__avatar img {
   display: block;
   width: 100%;
-  text-align: center;
-
-  img {
-    display: block;
-    width: 100%;
-    max-width: 240px;
-    height: auto;
-    margin: 0 auto;
-    box-sizing: border-box;
-    border-radius: 8px !important;
-
-    @include breakpoint($large) {
-      padding: 4px;
-      border: 1px solid $border-color;
-    }
-  }
+  max-width: 75px;
+  height: auto;
+  margin: 0;
+  border-radius: 8px;
 }
-.author__content {
-  display: block;
-  vertical-align: top;
-  padding-left: 10px;
-  min-width: 120px;
-  // padding-right: 25px;
-  line-height: 1;
 
-  @include breakpoint($large) {
-    display: block;
-    width: 100%;
-    padding-left: 0;
-    padding-right: 0;
-  }
+.author__content {
+  flex: 1;
+  padding-left: 10px;
+  min-width: 0; /* 关键：防止撑出空白 */
+  line-height: 1;
 }
 
 .author__name {
