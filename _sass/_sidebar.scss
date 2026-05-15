@@ -79,20 +79,16 @@
 }
 
 .author__avatar {
-  display: table-cell;
-  vertical-align: top;
+  display: block;
+  width: 100%;
   text-align: center;
 
-  @include breakpoint($large) {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
   img {
+    display: block;
     width: 100%;
     max-width: 240px;
     height: auto;
+    margin: 0 auto;
     box-sizing: border-box;
     border-radius: 8px !important;
 
@@ -103,7 +99,7 @@
   }
 }
 .author__content {
-  display: table-cell;
+  display: block;
   vertical-align: top;
   padding-left: 10px;
   min-width: 120px;
