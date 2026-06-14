@@ -12,8 +12,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Yuankun Xie, a final year Ph.D. candidate at the Communication University of China, 
-and a joint Ph.D. student at the Institute of Automation, Chinese Academy of Sciences.
+Hi, I am Yuankun Xie. I recently obtained my Ph.D. degree from the Communication University of China, where I was also jointly trained at the Institute of Automation, Chinese Academy of Sciences.
 
 My research interests include **audio deepfake detection**, 
 **audio large language models (ALLMs)**, domain generalization, out-of-distribution detection, and neural audio codecs. 
